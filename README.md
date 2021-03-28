@@ -56,5 +56,5 @@ Windows (64-bit): click here
 
 2. Place the file in the `Tennis` folder, and unzip (or decompress) the file.
 
-## Step 3: Run all the cells of Navigation.ipynb
+## Step 3: Run all the cells of Tennis.ipynb
 Running all the cells will train the agent, save a checkpoint after reaching 0.5 average score over 100 episodes and finally test the agent from the checkpoint on 5 steps. If you want to use the already existing checkpoint you can skip the training cell. Preferably, train the model on a GPU supporting environment as it takes less time.
